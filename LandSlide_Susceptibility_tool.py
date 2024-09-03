@@ -1,3 +1,6 @@
+## A tool in ArcGIS Pro is developed to identify Landslide susceptible zones based on climatic, anthropogenic and geological factor. 
+The work flow is developed using ArcGIS model builder and then extracting the python script it was modified ##
+
 import arcpy
 from arcpy.sa import *
 from arcpy.sa import *
